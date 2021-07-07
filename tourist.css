@@ -1,0 +1,117 @@
+body{
+    background: url("images/shouxihu.jfif");
+    background-size: cover;
+
+}
+div#main{
+    width: 100%;
+
+}
+table.inner{
+    width: 75%;
+    margin: 20px auto 0 auto;
+}
+
+td.travel{
+    height: 43px ;
+
+    background-size: 165px auto;
+    text-align: left;
+}
+.travel h1{
+    margin-left: 45%;
+}/*设置段落的样式*/
+.tour{
+    width: 80%;
+    height: 300px;
+    text-align: center;
+ 
+ }
+ 
+ .tour-box{
+     margin: 0 10px 0 10px;
+     height: 320px;
+     width: 3000px;
+ }
+ 
+ .tour-in{
+     height: 34px;
+     width: 250px;
+     margin-left: 30px;
+ }
+ 
+
+ #tour-in-2{
+     width: 600px;
+ }
+
+
+div#cont-1{
+    width: 100%;
+    margin: 0 0 2px 0;
+}
+span.group-name{
+    font-size: 16px;
+    font-weight: bold;
+}
+table.question-cont1{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid #155486;
+    padding: 1px;
+}
+td.question1{
+    background-color: #f7f7f700;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 6px 10px;
+}
+td.question1 span.x{
+    color: red;
+    font-size: 9px;
+    margin-right: 5px;
+}
+
+td.answer1{
+    padding: 11px 24px 16px 37px;
+    background-color: rgba(0, 0, 0, 0);
+} 
+td.answer1 p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+td.answer1 p textarea{
+    margin: 10px 10px 10px 10px;
+    background-color: rgba(240, 255, 255, 0);
+}
+td.answer1 ul{
+    margin: 0%;
+    padding: 0%;
+}
+
+td.answer1 ul li input{
+    margin-top: 2px;
+}
+td.answer1 ul li label{
+    text-align: left;
+}/*设置答案框的样式*/
+span.special{
+    color:rgb(105, 21, 21);
+}
+td.question1 p strong{
+    font-weight: normal;
+    font-style: normal;
+}
+td.submit{
+    text-align: center;
+    width: 100%;
+    background-color: #eef6ff00;
+}/*设置发布按钮的样式*/
+button.button{
+    border-radius: 20%;
+    background-color: #caf0da;
+    border: 1px solid #9de6ca;
+
+}

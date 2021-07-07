@@ -1,0 +1,181 @@
+body{
+    background: url("images/background.jfif");
+    background-size: cover;
+
+}
+/*添加背景,并设置格式*/
+
+.hobby{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: rgb(245, 239, 230);
+}
+
+.hobby1{
+    width: 100%;
+    height: 50%;
+   
+}
+
+.hobby2{
+   width: 100%;
+   height: 300px;
+   float: left;
+   
+   padding: 4px 18px 4px 10px;
+}
+
+.hobby2-box{
+    margin: 0 10px 0 10px;
+    height: 32px;
+    width: 300px;
+}
+
+.hobby2-in{
+    height: 34px;
+    width: 250px;
+    margin-left: 30px;
+}
+
+
+
+#hobby2-in-2{
+    width: 900px;
+    
+}
+/*设置盒子的格式*/
+
+.hobby3{
+    width: 30%;
+    height: 300px;
+    float: left;
+
+
+ }
+ 
+ .hobby3-box{
+     margin: 0 10px 0 10px;
+     height: 32px;
+     width: 300px;
+ }
+ 
+ .hobby3-in{
+     height: 34px;
+     width: 250px;
+     margin-left: 30px;
+ }
+ 
+
+ 
+ #hobby3-in-2{
+     width: 300px;
+ }
+
+/*设置盒子的格式*/
+ .hobby4{
+    width: 30%;
+    height: 300px;
+    float:left;
+
+
+   
+ }
+ 
+ .hobby4-box{
+     margin: 0 10px 0 10px;
+     height: 32px;
+     width: 300px;
+ }
+ 
+ .hobby4-in{
+     height: 34px;
+     width: 250px;
+     margin-left: 30px;
+ }
+ 
+
+ 
+ #hobby4-in-2{
+     width: 300px;
+ }
+/*设置盒子的格式*/
+
+
+ .hobby5{
+    width: 30%;
+    height: 300px;
+    float: right;
+   
+ }
+ 
+ .hobby5-box{
+     margin: 0 10px 0 10px;
+     height: 32px;
+     width: 300px;
+ }
+ 
+ .hobby5-in{
+     height: 34px;
+     width: 250px;
+     margin-left: 30px;
+ }
+ 
+
+ 
+ #hobby5-in-2{
+     width: 300px;
+ }
+
+/*设置盒子的格式*/
+
+
+
+.title-1{
+    font-size: 100px;
+    font-family: "serif";
+    list-style-type:none;
+}
+.title-2{
+    font-size: 60px;
+    font-family: "serif";
+    list-style-type:none;
+}
+
+.title-3{
+    font-size: 30px;
+    font-family: "serif";
+    list-style-type:none;
+}
+/*设置字体格式*/
+
+a{
+    color: rgb(2, 196, 99);
+    text-decoration: none;
+}
+a1{
+    color: rgb(84, 240, 240);
+    text-decoration: none;
+}
+/*设计两种不同的字体颜色格式*/
+
+.aclass{
+    text-indent: 0em;
+}
+/*设置格式*/
+a:hover{
+    color:rgb(44, 47, 230);
+}
+/*设计超链接颜色*/
+
+
+
+
+
+
+
+
+
+
+
+

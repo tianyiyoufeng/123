@@ -1,0 +1,48 @@
+body{
+    background: url("images/football.jfif");
+    background-size: cover;
+    /*添加图片作为背景，并设置格式*/
+}
+
+.class1{
+    width: 100%;
+    height: 300px;
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}/*设置段落里的格式*/
+
+h1{
+    font-size: 60px;
+    color:aliceblue;
+}/*添加页眉区的格式*/
+
+.title{
+    color: black;
+
+    background-color: #92c3c9;
+}
+.title-1{
+    color: black;
+
+    background-color: #80b496dc;
+}
+/*设置两种不同的表格的格式*/
+.text{
+    background-color: #f1efe3;
+}
+.text-1{
+    background-color: #f1efe3;
+}/*设置两种不同的表格背景颜色*/
+td{
+    width: 160px;
+}
+
+
+.aclass a{
+    color: rgb(255, 254, 254);
+    text-decoration: none;
+}

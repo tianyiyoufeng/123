@@ -1,0 +1,124 @@
+body {
+    background: url("images/weiqi.jfif");
+    background-size: cover;
+    /*添加背景图片并让它填充整个页面*/
+   
+}
+.part{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    
+}
+
+
+
+.part1{
+   width: 100%;
+   height: 600px;
+   float: left;
+   padding: 4px 18px 4px 10px;
+}
+.part1-box{
+    margin: 0 10px 0 10px;
+    height: 320px;
+    width: 300px;
+}
+
+.part1-in{
+    height: 34px;
+    width: 250px;
+    margin-left: 30px;
+}
+
+
+#part1-in-2{
+    width: 600px;
+}
+
+/*设置盒子的样式*/
+
+.part2{
+    width: 50%;
+    height: 300px;
+    float: left;
+ 
+ }
+ 
+ .part2-box{
+     margin: 0 10px 0 10px;
+     height: 32px;
+     width: 300px;
+ }
+ 
+ .part2-in{
+     height: 34px;
+     width: 250px;
+     margin-left: 30px;
+ }
+ 
+
+ #part2-in-2{
+     width: 600px;
+ }
+/*设置盒子的样式*/
+
+ .part3{
+    width: 50%;
+    height: 300px;
+    float: right;
+
+ }
+ 
+ .part3-box{
+     margin: 0 10px 0 10px;
+     height: 32px;
+     width: 300px;
+ }
+ 
+ .part3-in{
+     height: 34px;
+     width: 250px;
+     margin-left: 30px;
+ }
+ 
+ #part3-in-2{
+     width: 600px;
+ }
+/*设置盒子的样式*/
+
+
+
+
+
+.new{
+    font-size: 18px;
+    font-family: "sans-serif";
+    list-style-type:none;
+}
+
+.new1{
+    font-size: 60px;
+    font-family: "sans-serif";
+    list-style-type:none;
+}
+/*设置字体的格式*/
+
+
+a{
+    color: rgb(214, 80, 86);
+    text-decoration: none;
+}
+a1{
+    color: rgb(69, 22, 199);
+    text-decoration: solid;
+}
+
+.aclass{
+    text-indent: 2em;
+}
+/*设置几个段落里的样式*/
+
+
+
+
